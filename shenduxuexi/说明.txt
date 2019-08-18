@@ -1,0 +1,2 @@
+该文件夹下深度学习算法均为python2.7，因改为python3出现bug，还未改正，所以有些运行仍然有问题。
+来源：https://github.com/hanbt/learn_dl
